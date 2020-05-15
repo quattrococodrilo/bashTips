@@ -1,0 +1,2 @@
+# bashTips
+Apuntes bash
